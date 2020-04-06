@@ -101,7 +101,7 @@ namespace specflowstepbystep
         [After]
         public void Teardown()
         {
-            //    driver.Close();
+           driver.Close();
            
        
         }
