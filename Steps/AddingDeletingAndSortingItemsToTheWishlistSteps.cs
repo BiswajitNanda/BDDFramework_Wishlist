@@ -48,7 +48,7 @@ namespace specflowstepbystep
         public void GivenIAmOnTheCargiantHomePage()
         {
             Console.WriteLine(homepage.getTitle());
-         //   Assert.IsTrue(homepage.getTitle().Contains(Config._HomePageTitle));
+            Assert.IsTrue(homepage.getTitle().Contains(Config._HomePageTitle));
        }
         
         [When(@"I login with my user name and password")]
