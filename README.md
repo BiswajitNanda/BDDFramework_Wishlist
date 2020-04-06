@@ -2,7 +2,7 @@
 
 <B>Technical Implementation</B>
 
-This project uses Specflow as the primary test automation tool. Specflow is the .NET  equivalent tool of cucumber in C#. To organise the code below, Page Object Model has been implemented. 
+This project uses Specflow as the primary test automation tool. Specflow is the .NET  equivalent tool of cucumber in C#. To organise the code, Page Object Model has been implemented as it's importat from coding best practices. 
 
 The following folders are specially important. 
 <b>Config</b> - Holds all config Data
