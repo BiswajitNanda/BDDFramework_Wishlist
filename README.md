@@ -5,9 +5,9 @@
 This project uses Specflow as the primary test automation tool. Specflow is the .NET  equivalent tool of cucumber in C#. To organise the code, Page Object Model has been implemented as it's importat from coding best practices to reduce code duplication primarily.  
 
 The following folders are specially important in the project. 
-<b>Config</b> - Holds all config Data
-<b>Features</b> - Holds all feature files 
-<b>Steps</b> - All step definition files
+<b>Config</b> - Holds all config Data,
+<b>Features</b> - Holds all feature files, 
+<b>Steps</b> - All step definition files,
 <b>Helper</b> - All helper functions 
 
 <B> Important note </B>
