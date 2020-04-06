@@ -2,7 +2,13 @@
 
 <B>Technical Implementation</B>
 
-This project uses Specflow as the primary test automation tool. Specflow is the .NET  equivalent tool in C#. To organise the code below, Page Object Model has been implemented. 
+This project uses Specflow as the primary test automation tool. Specflow is the .NET  equivalent tool of cucumber in C#. To organise the code below, Page Object Model has been implemented. 
+
+The following folders are specially important. 
+<b>Config</b> - Holds all config Data
+<b>Features</b> - Holds all feature files 
+<b>Steps</b> - All step definition files
+<b>Helper</b> - All helper functions 
 
 <B> Important note </B>
-Sorting could not be implemented because of time constraint and the volatile nature of the web page during test development. But the framework has been developed and tests have been implemented for both Add and delete Products from wishlist.  
+<u>Sorting could not be implemented because of time constraint and the volatile nature of the web page during test development. But the framework has been developed and tests have been implemented for both Add and delete Products from wishlist.  </u>
